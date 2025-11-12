@@ -1,0 +1,1 @@
+I have used Pile Dataset with 100k files loaded, Standardized, Tokenized, Vectorized, Created custom dataset for thisparticular project using the sliding window concept for crreating features and labels and then it will later be used for training of LSTM model. 
